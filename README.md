@@ -1,4 +1,4 @@
-# 👋 ¡Hola, soy [Tu Nombre]! 
+# 👋 ¡Hola, soy CrakoDev! 
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9EF4&center=true&vCenter=true&width=600&lines=Desarrollador+Full+Stack;Entusiasta+de+la+tecnología;Aprendiz+constante" alt="Typing SVG" />
